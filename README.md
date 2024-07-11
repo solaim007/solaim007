@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Solaim Faisal</h1>
-<h3 align="center">A passionate Web Developer from India specializing</h3>
+<h3 align="center">A passionate Web Developer from India specializing in Node.js</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=solaim007" alt="solaim007" /></a> </p>
 
